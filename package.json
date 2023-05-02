@@ -1,0 +1,17 @@
+{
+  "name": "inputdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "mysql2": "^3.2.4",
+    "typeorm": "^0.3.15"
+  }
+}
